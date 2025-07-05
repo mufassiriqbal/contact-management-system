@@ -35,7 +35,7 @@ $currentUserId = requireAuth();
         <div class="test">
              <div class="search ">
             <form action="#" method="POST">
-                <input type="text" placeholder="Search Courses"
+                <input type="text" placeholder="Search contacts"
                        name="search">
                 <button>
                     <i class="fa fa-search"></i>
